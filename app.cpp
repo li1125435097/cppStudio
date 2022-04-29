@@ -17,5 +17,6 @@ int main(){
 	l(arr,2);
 	l(b);
 	l(a);
+	
 	return 0;
 }
